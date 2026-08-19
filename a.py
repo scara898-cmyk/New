@@ -3,6 +3,7 @@ import time
 st.config.set_option("theme.backgroundColor", "#c2f6c0")
 st.config.set_option("theme.textColor", "#c1051b")
 
+
 # 1. Page Configuration & Theme Vibe
 st.set_page_config(
     page_title="Happy Birthday!",
